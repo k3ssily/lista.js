@@ -1,0 +1,7 @@
+let a = Number(prompt("Digite o primeiro valor:"));
+let b = Number(prompt("Digite o segundo valor:"));
+
+console.log(a + b);
+console.log(a - b);
+console.log(a / b);
+console.log(a * b);
