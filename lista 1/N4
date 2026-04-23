@@ -1,0 +1,5 @@
+let numero = 10;
+let texto = "10";
+
+console.log(numero == texto);  // true
+console.log(numero === texto); // false
