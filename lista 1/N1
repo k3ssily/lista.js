@@ -1,0 +1,7 @@
+let nome = "Kessily";
+let idade = "17";
+let estudo = "nao";
+
+console.log("Nome:", nome);
+console.log("Idade:", idade);
+console.log("Voce estuda? :", estudo);
