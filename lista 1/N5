@@ -1,0 +1,9 @@
+let nota = Number(prompt("Digite sua nota de 0 a 10:"));
+
+if (nota >= 7) {
+    console.log("Aprovado");
+} else if (nota>=5 && nota <7 ){
+    console.log("Recuperaçao");
+}else{
+    console.log("Reprovado");
+}
