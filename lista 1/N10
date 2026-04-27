@@ -1,0 +1,13 @@
+ function imparOuPar(numero) {
+    if (numero % 2 === 0) {
+        return "Par";
+    } else {
+        return "Ímpar";
+    }
+}
+
+let num = Number(prompt("Digite um número:"));
+
+let resultado = imparOuPar(num);
+
+console.log("Resultado:", resultado);
